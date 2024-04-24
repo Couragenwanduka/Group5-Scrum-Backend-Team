@@ -31,8 +31,8 @@ Welcome to our Backend Documentation! This guide provides a detailed overview of
     - GET `/api/v1/agrico-blog/user/getallcomments`: Users can get all comments
     - patch `/api/v1/agrico-blog/user/updatePassword`: User can update their password
     - Delete `/api/v1/agrico-blog/user/deleteAccount`: User can delete their account
-    - POST `/api/v1/agrico-blog/user/followFamer`: User can follow Famer
-    - Delete `/api/v1/agrico-blog/user/unfollowFamer`: user can unfollow Famer
+    - POST `/api/v1/agrico-blog/user/followFamer`: User can follow Farmer
+    - Delete `/api/v1/agrico-blog/user/unfollowFamer`: user can unfollow Farmer
 
 ### Create Post
 
